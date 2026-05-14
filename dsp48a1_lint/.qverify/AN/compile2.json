@@ -1,0 +1,3 @@
+[
+{"recid":1, "Severity":"Warning", "Message":"(vlog-2275) Existing module 'REG_MUX' at D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v(152) will be overwritten.", "Backref":"D:/DIGITAL/projects/Spartan6_DSP48A1/dff_mux_block.v,1"}
+]

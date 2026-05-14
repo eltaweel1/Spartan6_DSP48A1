@@ -1,0 +1,10 @@
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+Start time: 19:53:34 on Jul 28,2025
+vlog D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v -work work 
+-- Compiling module dsp48a1
+-- Compiling module REG_MUX
+
+Top level modules:
+	dsp48a1
+End time: 19:53:34 on Jul 28,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

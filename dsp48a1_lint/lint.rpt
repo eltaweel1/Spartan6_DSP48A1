@@ -1,0 +1,106 @@
+====================================================================================================
+Lint Check Report
+Questa Lint  Version 2021.1 4558100 win64 28-Jan-2021
+
+Timestamp            : Mon Jul 28 19:54:00 2025
+Description          : Report for referring checks count, check violations details, and  design information
+Design               : dsp48a1
+Database             : D:/DIGITAL/projects/Spartan6_DSP48A1/dsp48a1_lint/lint.db
+Design Quality Score : 99.1%
+
+Sections:
+   Section 1 : Check Summary
+   Section 2 : Check Details
+   Section 3 : Design Information
+====================================================================================================
+
+
+====================================================================================================
+Section 1 : Check Summary
+====================================================================================================
+-------------
+| Error (0) |
+-------------
+
+---------------
+| Warning (5) |
+---------------
+  mux_select_const                        : 5
+
+------------
+| Info (3) |
+------------
+  condition_const                         : 2
+  line_char_large                         : 1
+
+----------------
+| Resolved (0) |
+----------------
+
+
+====================================================================================================
+Section 2 : Check Details
+====================================================================================================
+-------------
+| Error (0) |
+-------------
+
+
+---------------
+| Warning (5) |
+---------------
+
+Check: mux_select_const [Category: Connectivity] (5)
+       [Message: Constant value drives mux select pin. Signal '<signal>', Module '<module>', File '<file>', Line '<line>'.]
+----------------------------------------------------------------------------------------------------------------------------
+mux_select_const: [uninspected] Constant value drives mux select pin. Signal 'A0_STAGE.out', Module 'REG_MUX', File 'D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v', Line '189'.
+
+mux_select_const: [uninspected] Constant value drives mux select pin. Signal 'C0_STAGE.out', Module 'REG_MUX', File 'D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v', Line '189'.
+
+mux_select_const: [uninspected] Constant value drives mux select pin. Signal 'CY1.out', Module 'REG_MUX', File 'D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v', Line '189'.
+
+mux_select_const: [uninspected] Constant value drives mux select pin. Signal 'OPMODE_REG.out', Module 'REG_MUX', File 'D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v', Line '189'.
+
+mux_select_const: [uninspected] Constant value drives mux select pin. Signal 'mul.out', Module 'REG_MUX', File 'D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v', Line '189'.
+
+
+
+------------
+| Info (3) |
+------------
+
+Check: condition_const [Category: Rtl Design Style] (2)
+       [Message: Condition expression is a constant. Module '<module>', File '<file>', Line '<line>'.]
+-------------------------------------------------------------------------------------------------------
+condition_const: [uninspected] Condition expression is a constant. Module 'dsp48a1', File 'D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v', Line '91'. [RTL ID:fa5870fb_00200]
+
+condition_const: [uninspected] Condition expression is a constant. Module 'dsp48a1', File 'D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v', Line '130'. [RTL ID:820bc420_00200]
+
+
+Check: line_char_large [Category: Rtl Design Style] (1)
+       [Message: Line has more characters than the specified limit. Current Count '<count>', Specified Limit '<limit>', File '<file>', Line '<line>'.]
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+line_char_large: [uninspected] Line has more characters than the specified limit. Current Count '128', Specified Limit '110', File 'D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v', Line '125'.
+
+
+
+----------------
+| Resolved (0) |
+----------------
+
+
+
+====================================================================================================
+Section 3 : Design Information
+====================================================================================================
+-----------
+| Summary |
+-----------
+  Register Bits                           : 232
+  Latch Bits                              : 0
+  User-specified Blackboxes               : 0
+  Inferred Blackboxes                     : 0
+  Empty Modules                           : 0
+  Unresolved Modules                      : 0
+  Hierarchical IPs                        : 0
+

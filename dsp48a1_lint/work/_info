@@ -1,0 +1,56 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/DIGITAL/projects/Spartan6_DSP48A1/dsp48a1_lint
+vdsp48a1
+Z1 !s110 1753721615
+!i10b 1
+!s100 5BJJ1]dVMeiUVCBX^NjT]1
+I@iZ=QfIN]9SUSO822@_j>2
+R0
+Z2 w1753713732
+Z3 8D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v
+Z4 FD:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v
+!i122 21
+L0 1 149
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1753721615.000000
+!s107 D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v|
+Z8 !s90 D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v|-work|work|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vREG_MUX
+R1
+!i10b 1
+!s100 ]m]_OZTM32K3QMf6<0GPT2
+IDG4^o6LKgdF9>aiU4GoX@2
+R0
+R2
+R3
+R4
+!i122 21
+L0 152 47
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z11 !s107 D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v|
+R8
+!i113 0
+R9
+R10
+n@r@e@g_@m@u@x

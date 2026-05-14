@@ -1,0 +1,93 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/DIGITAL/projects/Spartan6_DSP48A1
+T_opt
+!s110 1753904255
+VSCUZfU^<A6FJk=P4FAgc?2
+04 10 4 work DSP48A1_TB fast 0
+=1-e4b97a688fcb-688a747e-2ef-7c4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vDSP48A1
+Z2 !s110 1753904250
+!i10b 1
+!s100 7T_QPVnAoDY9@Sc?^T^BE2
+IG`h2mFo>M=aZ9[DZ>NCBQ1
+Z3 dD:/DIGITAL/projects/Spartan6_DSP48A1/New folder
+w1753903662
+8DSP48A1.v
+FDSP48A1.v
+!i122 3
+L0 1 103
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1753904250.000000
+Z7 !s107 DSP48A1_TB.v|DSP48A1_regging_sync.v|DSP48A1.v|
+Z8 !s90 -reportprogress|300|DSP48A1.v|DSP48A1_regging_sync.v|DSP48A1_TB.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@d@s@p48@a1
+vDSP48A1_TB
+R2
+!i10b 1
+!s100 YK5JAAjCiW1CkBJ;ET1V[0
+IPhmg7?ojU@XH<PQ0F3QeE1
+R3
+w1753904247
+8DSP48A1_TB.v
+FDSP48A1_TB.v
+!i122 3
+L0 1 293
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@d@s@p48@a1_@t@b
+vREG_MUX
+R2
+!i10b 1
+!s100 m0U2ZbWjdRGc50Klo^1CI2
+I=OS;AazM@_f5X9ae6:OLL3
+R3
+w1753903663
+8DSP48A1_regging_sync.v
+FDSP48A1_regging_sync.v
+!i122 3
+L0 1 34
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@r@e@g_@m@u@x

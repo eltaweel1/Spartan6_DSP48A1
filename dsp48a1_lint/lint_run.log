@@ -1,0 +1,164 @@
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Mon Jul 28 19:54:12 2025 by Abdo Moamen on DESKTOP-26KTBBB
+
+
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Mon Jul 28 19:53:39 2025 by Abdo Moamen on DESKTOP-26KTBBB
+
+
+Command: netlist elaborate
+Command arguments:
+    -zdb D:/DIGITAL/projects/Spartan6_DSP48A1/dsp48a1_lint/qcache/DB/zdb_16
+    -tool lint
+    -d dsp48a1
+    -L work
+
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False)
+
+
+## Elaborating Design...
+Reading MTI mapping for library mapping
+Writing all MTI mappings to vmap output ...
+
+Top level modules:
+	dsp48a1
+
+Analyzing design...
+-- Loading module z0in_work.dsp48a1
+
+Performing 103 Lint Checks
+=============================
+
+Lint Stage 1 of 5 - Pre Design Elaboration (4 checks)
+------------------------------------------------------
+-- Loading module z0in_work.REG_MUX
+Optimizing 6 design-units (inlining 0/12 module instances):
+-- Optimizing module z0in_work.REG_MUX(fast)
+Lint Stage-1 100% complete [Total Progress -   7%]
+
+Lint Stage 2 of 5 - Design Elaboration (66 checks)
+---------------------------------------------------
+-- Optimizing module z0in_work.REG_MUX(fast__1)
+Lint Stage-2  17% complete (1 out of 6 modules checked) [Total Progress -   8%]
+-- Optimizing module z0in_work.REG_MUX(fast__2)
+Lint Stage-2  33% complete (2 out of 6 modules checked) [Total Progress -  11%]
+-- Optimizing module z0in_work.REG_MUX(fast__3)
+Lint Stage-2  50% complete (3 out of 6 modules checked) [Total Progress -  14%]
+-- Optimizing module z0in_work.REG_MUX(fast__4)
+Lint Stage-2  67% complete (4 out of 6 modules checked) [Total Progress -  17%]
+-- Optimizing module z0in_work.dsp48a1(fast)
+Lint Stage-2  83% complete (5 out of 6 modules checked) [Total Progress -  20%]
+Optimized design name is zi_opt_def_16060968_1
+Lint Stage-2 100% complete (6 out of 6 modules checked) [Total Progress -  23%]
+End of log Mon Jul 28 19:53:49 2025
+
+
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Mon Jul 28 19:53:51 2025 by Abdo Moamen on DESKTOP-26KTBBB
+
+
+Command: netlist create
+Command arguments:
+    -zdb D:/DIGITAL/projects/Spartan6_DSP48A1/dsp48a1_lint/qcache/DB/zdb_16
+    -tool lint
+    -d dsp48a1
+    -L work
+
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False)
+
+
+## Synthesizing netlist...
+
+Lint Stage 3 of 5 - Post Design Elaboration (17 checks)
+--------------------------------------------------------
+Lint Stage-3  24% complete [Total Progress -  27%]
+Lint Stage-3  47% complete [Total Progress -  29%]
+Lint Stage-3  71% complete [Total Progress -  32%]
+Lint Stage-3  94% complete [Total Progress -  34%]
+Lint Stage-3 100% complete [Total Progress -  35%]
+Analyzing designs.
+Elaborating module 'REG_MUX'.
+Elaborating module 'REG_MUX(1)'.
+Elaborating module 'REG_MUX(2)'.
+Elaborating module 'REG_MUX(3)'.
+Elaborating module 'REG_MUX(4)'.
+Elaborating module 'dsp48a1'.
+
+Lint Stage 4 of 5 - Design Synthesis (1 checks)
+------------------------------------------------
+Lint Stage-4 100% complete [Total Progress -  75%]
+
+Lint Stage 5 of 5 - Post Design Synthesis (15 checks)
+------------------------------------------------------
+Lint Stage-5  20% complete [Total Progress -  88%]
+Lint Stage-5  40% complete [Total Progress -  91%]
+Lint Stage-5  60% complete [Total Progress -  94%]
+Lint Stage-5  80% complete [Total Progress -  97%]
+Lint Stage-5 100% complete [Total Progress - 100%]
+
+Lint Checking Completed
+##Time Taken (Synthesis) = 2424.000000 ticks = 2.424000 secs
+
+End of log Mon Jul 28 19:54:00 2025
+
+
+# Reading design database from D:/DIGITAL/projects/Spartan6_DSP48A1/dsp48a1_lint/qcache/LINT/CACHE...completed (0.002 (s)).
+End of log Mon Jul 28 19:54:03 2025
+
+
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Mon Jul 28 19:54:03 2025 by Abdo Moamen on DESKTOP-26KTBBB
+
+
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False)
+
+
+## Applying Lint Waivers...
+Final Process Statistics: Max memory 276MB, CPU time 24s, Total time 26s
+End of log Mon Jul 28 19:54:10 2025
+
+
+Result Summary
+-----------------------------------------------------------
+Error (0)
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Warning (5)
+-----------------------------------------------------------
+  mux_select_const                        :5
+
+-----------------------------------------------------------
+Info (3)
+-----------------------------------------------------------
+  condition_const                         :2
+  line_char_large                         :1
+
+-----------------------------------------------------------
+Resolved (0)
+-----------------------------------------------------------
+
+# Generating Debug Information...
+
+=================================================================
+To view results in batch
+  D:/DIGITAL/projects/Spartan6_DSP48A1/dsp48a1_lint/lint.rpt
+
+To view results in GUI (Beta Version) 
+  qverify D:/DIGITAL/projects/Spartan6_DSP48A1/dsp48a1_lint/lint.db
+=================================================================

@@ -1,0 +1,22 @@
+<LayoutInfo version="1" CurrentRTLLayout="Default">
+ <Layout Name="Default" Type="IDE_pref">
+  <dockareas left="1038" top="0" bottom="243" right="532"/>
+  <taborder left="zinflownavigator+zindetails+zincdcdutview+" bottom="transcript+zinmsgviewer+zinlintMsgView+zinlintDesignMetricsView+zinlintDesignInfoView+zinlintMsgStatusHistoryView+zinlintMsgDashboardView+"/>
+  <activetab left="zincdcdutview" activewindow="zinlintMsgView" bottom="zinlintMsgView"/>
+  <window y="0" undocked="0" x="0" title="Flow Navigator" type="zinflownavigator" visible="1" dock_location="left"/>
+  <window y="0" undocked="0" x="0" title="Details (Wrap)" type="zindetails" visible="1" dock_location="left"/>
+  <window y="0" undocked="0" x="0" title="Design" type="zincdcdutview" visible="1" dock_location="left"/>
+  <window y="0" undocked="0" x="0" type="transcript" visible="1" dock_location="bottom"/>
+  <window y="0" undocked="0" x="0" title="Message Viewer" type="zinmsgviewer" visible="1" dock_location="bottom"/>
+  <window y="0" undocked="0" x="0" title="Lint Checks" type="zinlintMsgView" visible="1" dock_location="bottom"/>
+  <window y="0" undocked="0" x="0" title="Design Metrics" type="zinlintDesignMetricsView" visible="1" dock_location="bottom"/>
+  <window y="0" undocked="0" x="0" title="Design Information" type="zinlintDesignInfoView" visible="1" dock_location="bottom"/>
+  <window y="0" undocked="0" x="0" title="Status History" type="zinlintMsgStatusHistoryView" visible="1" dock_location="bottom"/>
+  <window y="0" undocked="0" x="0" title="Lint Dashboard" type="zinlintMsgDashboardView" visible="1" dock_location="bottom"/>
+  <window y="-9" undocked="0" x="-1" width="1920" height="1001" type="rtl" visible="1"/>
+  <window y="0" undocked="0" x="0" type="source" visible="1" dock_location="center"/>
+  <window y="0" undocked="0" x="0" id="1" type="source" visible="0" dock_location="center"/>
+  <window y="0" undocked="0" x="0" title="Schematic" type="zinschematicview" visible="0" dock_location="right"/>
+  <window y="0" undocked="0" x="0" title="Lint Summary" type="zinlintMsgSummaryView" visible="0" dock_location="right"/>
+ </Layout>
+</LayoutInfo>

@@ -1,0 +1,6 @@
+0@#@A0_STAGE.out
+1@#@C0_STAGE.out
+2@#@CY1.out
+3@#@OPMODE_REG.out
+4@#@mul.out
+

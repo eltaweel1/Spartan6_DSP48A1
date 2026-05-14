@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a200tffg1156-3" LaunchTime="1753616004">
+  <File Type="BITSTR-BMM" Name="dsp48a1_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="dsp48a1_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="dsp48a1_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="dsp48a1_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="dsp48a1.tcl"/>
+  <File Type="OPT-TIMING" Name="dsp48a1_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="dsp48a1_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="dsp48a1_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="dsp48a1_reports.tcl"/>
+  <File Type="OPT-DRC" Name="dsp48a1_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="dsp48a1.hwdef"/>
+  <File Type="PWROPT-DCP" Name="dsp48a1_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="dsp48a1_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="dsp48a1_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="dsp48a1_placed.dcp"/>
+  <File Type="PLACE-IO" Name="dsp48a1_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="dsp48a1_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="dsp48a1_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="dsp48a1_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="dsp48a1_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="dsp48a1_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="dsp48a1_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="dsp48a1.bgn"/>
+  <File Type="PLACE-TIMING" Name="dsp48a1_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="dsp48a1_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="dsp48a1.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="dsp48a1_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="dsp48a1_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="dsp48a1_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="dsp48a1.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="dsp48a1_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="dsp48a1_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="dsp48a1_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="dsp48a1_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="dsp48a1_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="dsp48a1_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="dsp48a1.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="dsp48a1_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="dsp48a1.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="dsp48a1_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="dsp48a1_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="dsp48a1.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="dsp48a1_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="dsp48a1_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="dsp48a1_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="dsp48a1_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="dsp48a1_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="dsp48a1_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="dsp48a1_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="dsp48a1_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="dsp48a1_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="dsp48a1_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="dsp48a1_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="dsp48a1_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="dsp48a1_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="dsp48a1_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="dsp48a1_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="dsp48a1_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="dsp48a1_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="dsp48a1_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="dsp48a1_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="dsp48a1.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="dsp48a1_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="dsp48a1.rbt"/>
+  <File Type="BITSTR-NKY" Name="dsp48a1.nky"/>
+  <File Type="BG-DRC" Name="dsp48a1.drc"/>
+  <File Type="RDI-RDI" Name="dsp48a1.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/dff_mux_block.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/DSP48A1.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="dsp48a1"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/dsp_constraints.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

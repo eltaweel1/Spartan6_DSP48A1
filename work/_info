@@ -1,0 +1,159 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/DIGITAL/Assignments_labs/lab_5
+T_opt
+!s110 1753640260
+VaiGE;7EIm]P;zi_j?FngR0
+Z2 04 10 4 work dsp48a1_tb fast 0
+=1-e4b97a688fcb-68866d44-2cd-4884
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1753713795
+VQ=zC[kQV>Q:nJWd8Ka?n_3
+R2
+=1-e4b97a688fcb-68878c83-ac-9424
+R3
+R4
+R5
+n@_opt1
+R6
+vdsp48a1
+Z7 !s110 1753713784
+!i10b 1
+!s100 5BJJ1]dVMeiUVCBX^NjT]1
+IPF=8m=3lGh>S11_4;][i_2
+Z8 dD:/DIGITAL/projects/Spartan6_DSP48A1
+Z9 w1753713732
+Z10 8DSP48A1.v
+Z11 FDSP48A1.v
+!i122 77
+L0 1 149
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+Z13 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z14 !s108 1753713784.000000
+Z15 !s107 DSP48A1_tb.v|DSP48A1.v|
+Z16 !s90 -reportprogress|300|DSP48A1.v|DSP48A1_tb.v|
+!i113 0
+Z17 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vdsp48a1_tb
+R7
+!i10b 1
+!s100 Meh6VXYH=NK]ZM9zFk`123
+I[dG8F46ci7>]hBG4fm5Pc1
+R8
+w1753713781
+8DSP48A1_tb.v
+FDSP48A1_tb.v
+!i122 77
+L0 1 242
+R12
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R5
+vREG_MUX
+R7
+!i10b 1
+!s100 ]m]_OZTM32K3QMf6<0GPT2
+IIUVXR^7lFJF`i:oJibRMO3
+R8
+R9
+R10
+R11
+!i122 77
+L0 152 47
+R12
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R5
+n@r@e@g_@m@u@x

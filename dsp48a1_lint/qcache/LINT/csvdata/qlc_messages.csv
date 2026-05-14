@@ -1,0 +1,10 @@
+Index@CheckId@Status@Category@DesignCategory@Severity@FileId@Module@ArgList@ClusterInfo@OldRtlId
+a1d30dab@0@uninspected@Rtl Design Style@Rtl Design Style@Info@0@"dsp48a1"@"0:dsp48a1#1:D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v#rtl_id:fa5870fb_00200"@"0"@""
+7fad505d@0@uninspected@Rtl Design Style@Rtl Design Style@Info@0@"dsp48a1"@"0:dsp48a1#1:D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v#rtl_id:820bc420_00200"@"0"@""
+40d7d5a8@1@uninspected@Connectivity@Implementation@Warning@0@"REG_MUX"@"0:A0_STAGE.out#1:REG_MUX#2:D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v#"@"0"@""
+9a46fdd7@1@uninspected@Connectivity@Implementation@Warning@0@"REG_MUX"@"0:C0_STAGE.out#1:REG_MUX#2:D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v#"@"0"@""
+1478c733@1@uninspected@Connectivity@Implementation@Warning@0@"REG_MUX"@"0:CY1.out#1:REG_MUX#2:D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v#"@"0"@""
+33cb9a8@1@uninspected@Connectivity@Implementation@Warning@0@"REG_MUX"@"0:OPMODE_REG.out#1:REG_MUX#2:D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v#"@"0"@""
+52057b45@1@uninspected@Connectivity@Implementation@Warning@0@"REG_MUX"@"0:mul.out#1:REG_MUX#2:D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v#"@"0"@""
+fd039872@2@uninspected@Rtl Design Style@Rtl Design Style@Info@0@""@"0:128#1:110#2:D:/DIGITAL/projects/Spartan6_DSP48A1/DSP48A1.v#"@"0"@""
+
